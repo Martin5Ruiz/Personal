@@ -31,6 +31,7 @@ public class Ej13_arrays {
                     System.out.println("error");
             }
         }while(posicion>=0 && posicion<datos.length);
+        System.out.println("Josemi was here");
     }
     
 }
